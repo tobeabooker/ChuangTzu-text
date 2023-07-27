@@ -4,4 +4,4 @@
 
 王叔岷《庄子校诠》。md和html文件都链接到zzjqimg中的图片字。
 
-文本有任何错误皆可留言说明。或者发送到邮箱：jiangxuan77@qq.com
+文本有任何错误皆可提交issue。或者发送到邮箱：jiangxuan77@qq.com
